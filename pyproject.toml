@@ -4,7 +4,8 @@ name = "cz_conventional_commits"
 version = "0.0.1"
 tag_format = "$version"
 
-
+#[tool.commitizen]
+#name = "cz_customize"
 
 [tool.commitizen.customize]
 message_template = "{{change_type}}:{% if show_message %} {{message}}{% endif %}"
