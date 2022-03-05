@@ -21,7 +21,7 @@ This is customized info
 [[tool.commitizen.customize.questions]]
 type = "list"
 name = "change_type"
-choices = ["feature", "bug fix"]
+choices = ["feat", "bug fix"]
 message = "Select the type of change you are committing"
 
 [[tool.commitizen.customize.questions]]
