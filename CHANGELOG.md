@@ -1,7 +1,12 @@
-## Unreleased
+## 0.3.0 (2022-03-05)
 
+### Feat
 
-- fix: test2
-- fix(test.py): add test1 code
-- testing
-- Initial commit
+- test
+
+### Fix
+
+- test change rex
+- test
+- test2
+- **test.py**: add test1 code
