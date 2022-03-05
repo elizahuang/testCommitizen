@@ -1,3 +1,10 @@
+## Unreleased
+
+### Fix
+
+- **test.py**: test on another pc
+- **requirement.txt**: add python module list
+
 ## 0.3.0 (2022-03-05)
 
 ### Feat
